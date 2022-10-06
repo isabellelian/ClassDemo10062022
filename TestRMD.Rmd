@@ -1,6 +1,6 @@
 ---
 title: "TestRMD"
-author: "Isabelle Lian"
+author: "Isabelle Lian, Sreya Manchiraju"
 date: "2022-10-06"
 output: html_document
 ---
